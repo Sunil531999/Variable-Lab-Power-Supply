@@ -13,5 +13,3 @@ Hardwares Required:
 10. Electrolytic Capacitors 220uf 25v, 220uf 16v 
 11. LEDs  
 12. On-Off Switch  
-
-Circuit Diagram is provided.
