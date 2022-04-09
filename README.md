@@ -9,8 +9,9 @@ Hardwares Required:
 6. 10A DC-DC Step-down Adjustable Constant Voltage Module 
 7. 10k Ohm 3590S Precision Multiturn Potentiometer 
 8. 7805 5v Voltage Regulator 
-9. 12v Fan 10. Electrolytic Capacitors 220uf 25v, 220uf 16v 
-10. LEDs  
-11. On-Off Switch  
+9. 12v DC Fan 
+10. Electrolytic Capacitors 220uf 25v, 220uf 16v 
+11. LEDs  
+12. On-Off Switch  
 
 Circuit Diagram is provided.
