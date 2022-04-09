@@ -4,7 +4,7 @@ Hardwares Required:
 1. Arduino Microcontroller (I used arduino pro mini) 
 2. 30A range Current Sensor Module ACS712 
 3. LCD Display 16x2 
-4. 150W AC-DC Buck Converter 100V-240V to 24V 6A-9A Step Down Power Supply Module 
+4. AC-DC Buck Converter 100V-240V to 24V 6A-9A Step Down Power Supply Module 
 5. LM2596S DC-DC Buck Converter Power Supply 
 6. 10A DC-DC Step-down Adjustable Constant Voltage Module 
 7. 10k Ohm 3590S Precision Multiturn Potentiometer 
