@@ -1,5 +1,6 @@
 # Variable-Lab-Power-Supply
-This is a Variable Lab Power supply with 24V and upto 10A output 240 Watt, it uses arduino pro mini to control everything. 
+This is a Variable Lab Power supply with 24V and upto 10A output 240 Watt.
+It uses arduino pro mini to control everything. 
 Hardwares Required: 
 1. Arduino Microcontroller (I used arduino pro mini) 
 2. 30A range Current Sensor Module ACS712 
