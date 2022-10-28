@@ -14,3 +14,11 @@ Hardwares Required:
 10. Electrolytic Capacitors 220uf 25v, 220uf 16v 
 11. LEDs  
 12. On-Off Switch  
+Images:
+=========
+<img src="https://github.com/Sunil531999/Variable-Lab-Power-Supply/blob/main/images/2.jpg" width="500" height="250">
+<img src="https://github.com/Sunil531999/Variable-Lab-Power-Supply/blob/main/images/5.jpg" width="500" height="250">
+
+Disclaimer:
+===========
+In this project you are going to work with mains voltage or 220 volts, so please be cautioned and handel it carefully.
