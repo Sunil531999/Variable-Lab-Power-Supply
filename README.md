@@ -13,7 +13,8 @@ Hardwares Required:
 9. 12v DC Fan 
 10. Electrolytic Capacitors 220uf 25v, 220uf 16v 
 11. LEDs  
-12. On-Off Switch  
+12. On-Off Switch
+ 
 Images:
 =========
 <img src="https://github.com/Sunil531999/Variable-Lab-Power-Supply/blob/main/images/2.jpg" width="500" height="250">
